@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  color: #e18d26;
+}
+p{
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+button{
+  margin-left: 270px;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  color: white;
+  background-color: blueviolet;
+}
